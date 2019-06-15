@@ -1,0 +1,1 @@
+-init:apt install gcc && apt install c++ && npm install monaco-editor@0.17.0
